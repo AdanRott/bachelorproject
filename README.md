@@ -1,3 +1,5 @@
+**Note: The remaining models and code will be added soon. Currently, the best performing model and the main functions are here.**
+
 # The Potential of Data-driven Fingerprints
 ## With A Focus on Graph and String-Based Representational Methods
 
@@ -24,11 +26,10 @@ Analytical Chemistry group (HIMS), Environmental Modeling & Computational Mass S
 ---
 
 ### Repository Contents
-- Notebooks
-- Functions
-- Data Sets 
-- Thesis PDF
-- ICNTS 23 poster
+- Figures, including ICNTS 23 poster
+- Data
+- Code
+
 
 ### Usage
 Currently code is still added to this repository!
