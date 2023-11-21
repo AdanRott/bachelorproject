@@ -33,6 +33,6 @@ Analytical Chemistry group (HIMS), Environmental Modeling & Computational Mass S
 ### Usage
 Currently code is still added to this repository.
 But the best performing model can be used by uploading it into google colab and running it! 
-Furthermor, are the amide data sets and acute fish toxicity datasets included.
+Furthermore, are the amide data sets and acute fish toxicity datasets included.
 For  validation of the results the fingerprint of the masked language model is already included in: X_train, X_test, y_train, y_test!
 
